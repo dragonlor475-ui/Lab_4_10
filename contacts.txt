@@ -1,2 +1,3 @@
 contacts data
 phone number
+email address
